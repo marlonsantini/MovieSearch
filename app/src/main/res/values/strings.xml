@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hiper</string>
+    <string name="action_searchable_activity">Buscar filme</string>
+
+    <string name="lbl_duration">DESCRIÇÃO</string>
+
+
+</resources>
